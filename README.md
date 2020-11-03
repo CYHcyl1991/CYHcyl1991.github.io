@@ -1,15 +1,7 @@
 ## 欢迎来到陈芸霖的代码库
 
-You can use the [editor on GitHub](https://github.com/CYHcyl1991/CYHcyl1991.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### R语言的学习
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # 我的学习动力
 ## Header 2
