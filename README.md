@@ -1,29 +1,14 @@
-## 欢迎来到陈芸霖的代码库
-
-### R语言的学习
-
-
-# 我的学习动力
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CYHcyl1991/CYHcyl1991.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>陈芸霖</h1>
+      <p><b>博士</b></p>
+      <p><b>重庆医科大学附属第二医院</b></p>
+      <p><b>邮箱：chenyunlin@cqmu.edu.cn</b></p>
+      <p><b>地址：中国重庆市南岸区茶园B区江南新城天文大道288号内科住院7楼心血管内科</b></p>
+    </td>
+    <td width="25%">
+      <img src="/未标题-1@1x.jpg" width="100%"> 
+    </td>
+  </tr>
+</table>
